@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50%;
+
+}
+.card{
+    background-color: beige;
+}
+/*.card-body2{*/
+/*    background-color: lightsteelblue;*/
+/*}*/
+.btn-primary{
+    background-color: cornflowerblue;
+}
+
+.card-img-top {}
